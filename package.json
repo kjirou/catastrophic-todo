@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kjirou/esego/issues"
   },
-  "homepage": "https://github.com/kjirou/esego#readme"
+  "homepage": "https://github.com/kjirou/esego#readme",
+  "engines": {
+    "node": ">=12"
+  }
 }

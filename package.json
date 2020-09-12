@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kjirou/esego#readme",
   "engines": {
     "node": ">=12"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
   }
 }

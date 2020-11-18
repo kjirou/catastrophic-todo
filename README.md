@@ -1,4 +1,4 @@
-# esego
+# catastrophic-todo
 (ATODE)
 
 
@@ -6,4 +6,4 @@
 ### Softwares that needs to be locally installed
 
 - [Node.js](https://nodejs.org/) `>= 12`
-  - The most recommended version is defined in [.nvmrc](https://github.com/kjirou/esego/blob/master/.nvmrc).
+  - The most recommended version is defined in [.nvmrc](https://github.com/kjirou/catastrophic-todo/blob/master/.nvmrc).

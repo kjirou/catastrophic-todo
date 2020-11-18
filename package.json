@@ -1,5 +1,5 @@
 {
-  "name": "esego",
+  "name": "catastrophic-todo",
   "version": "0.0.0",
   "description": "(ATODE)",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kjirou/esego.git"
+    "url": "git+https://github.com/kjirou/catastrophic-todo.git"
   },
   "author": "kjirou",
-  "license": "SEE LICENSE IN https://github.com/kjirou/esego/blob/master/LICENSE",
+  "license": "SEE LICENSE IN https://github.com/kjirou/catastrophic-todo/blob/master/LICENSE",
   "bugs": {
-    "url": "https://github.com/kjirou/esego/issues"
+    "url": "https://github.com/kjirou/catastrophic-todo/issues"
   },
-  "homepage": "https://github.com/kjirou/esego#readme",
+  "homepage": "https://github.com/kjirou/catastrophic-todo#readme",
   "engines": {
     "node": ">=12"
   },
